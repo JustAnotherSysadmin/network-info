@@ -4,7 +4,7 @@
  Author:         John Lucas
 
  Script Function:
-	Show Network information
+	Show local BIOS version number, serial number, and Network information
 
 #ce ----------------------------------------------------------------------------
 
